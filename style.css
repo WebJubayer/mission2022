@@ -1,3 +1,6 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
 section{
     margin-bottom: -40px;
 }
@@ -44,7 +47,7 @@ h1{
 }
 .middle-section{
     background-color: rgb(177, 164, 164);
-    height: 700px;
+    height: 750px;
 }
 .middle-header{
     padding-top: 30px;
@@ -71,6 +74,7 @@ h1{
     
 }
 .footer{
+    margin-top: 50px;
     height: 200px;
     padding-top: 40px;
     background-color: black;
