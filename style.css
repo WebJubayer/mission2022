@@ -1,7 +1,11 @@
+section{
+    margin-bottom: -40px;
+}
 .top-section{
     display: flex;
     background-color: rgb(245, 217, 217);
     height: 600px;
+    
 }
 .border{
     border: 2px solid red;
@@ -43,7 +47,11 @@ h1{
     height: 700px;
 }
 .middle-header{
+    padding-top: 70px;
     text-align: center;
+}
+.mission2{
+    color: rgb(224, 6, 72);
 }
 .all-mission{
     display: flex;
