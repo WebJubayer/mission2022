@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
 section{
@@ -94,25 +95,23 @@ h1{
     height: 650px;
 }
 .fourth-left{
-    margin-top: 100px;
+    margin-top: 90px;
     margin-left: 80px;
 }
 .fourth-right img{
     width: 70%;
-    margin-top: 110px;
+    margin-top: 60px;
     margin-left: 70px;
 }
-
-
-
-
-
-
+.bonus-part{
+    height: 750px;
+    background-color: rgb(147, 147, 248);
+}
 .footer{
     margin-top: 50px;
     height: 200px;
-    padding-top: 40px;
-    background-color: black;
+    padding-top: 20px;
+    background-color: rgb(54, 37, 37);
     color: white;
     text-align: center;
 }
